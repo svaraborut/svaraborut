@@ -8,9 +8,9 @@
 
 ## About Me
 
-✨ Creating bugs since 2014
-🎯 Goals: Build amazing technologies
-🐫 Fun fact: I love the desert
+✨ Creating bugs since 2014<br>
+🎯 Goals: Build amazing technologies<br>
+🐫 Fun fact: I love the desert<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/borutsvara" target="_blank">
