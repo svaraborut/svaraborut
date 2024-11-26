@@ -1,6 +1,10 @@
 # Hi 👋 I'm Borut Svara
 
-<img src="https://raw.githubusercontent.com/svaraborut/svaraborut/refs/heads/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svaraborut/svaraborut/refs/heads/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svaraborut/svaraborut/refs/heads/output/snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/svaraborut/svaraborut/refs/heads/output/snake.svg" />
+</picture>
 
 ## About Me
 
