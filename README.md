@@ -9,17 +9,9 @@
 ## About Me
 
 ✨ Creating bugs since 2014<br>
-🎯 Goals: Build amazing technologies<br>
-🐫 Fun fact: I love the desert<br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/borutsvara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/5424426/newbie" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
+🕸️ https://svara.io<br>
+🎯 Build amazing technologies<br>
+🐫 I love the desert<br>
 
 ## I code with
 
