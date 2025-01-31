@@ -1,5 +1,11 @@
 # 👋 I'm Borut Svara
 
+[![svara.io](https://svara.io/assets/badge.svg)](https://svara.io/)
+
+I'm a nomadic developer with no fixed base, exploring the world of code wherever I go. Currently diving deep into
+TypeScript and Python for full-stack magic, all while juggling the most exotic tech stacks that most people haven’t even
+heard of. The weirder, the better!
+
 ✨ Creating bugs since 2014<br>
 🕸️ https://svara.io<br>
 🎯 Build amazing technologies<br>
@@ -57,11 +63,3 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
 </div>
-
-## Badge
-
-[![svara.io](https://svara.io/assets/badge.svg)](https://svara.io/)
-
-```markdown
-[![svara.io](https://svara.io/assets/badge.svg)](https://svara.io/)
-```
