@@ -1,17 +1,17 @@
-# Hi 👋 I'm Borut Svara
+# 👋 I'm Borut Svara
+
+✨ Creating bugs since 2014<br>
+🕸️ https://svara.io<br>
+🎯 Build amazing technologies<br>
+🐫 I love the desert<br>
+
+## Latest Contributions
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svaraborut/svaraborut/refs/heads/output/snake.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svaraborut/svaraborut/refs/heads/output/snake-dark.svg" />
   <img alt="Snake Animation" src="https://raw.githubusercontent.com/svaraborut/svaraborut/refs/heads/output/snake-dark.svg" />
 </picture>
-
-## About Me
-
-✨ Creating bugs since 2014<br>
-🕸️ https://svara.io<br>
-🎯 Build amazing technologies<br>
-🐫 I love the desert<br>
 
 ## I code with
 
@@ -57,3 +57,11 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
 </div>
+
+## Badge
+
+[![svara.io](https://svara.io/assets/badge.svg)](https://svara.io/)
+
+```markdown
+[![svara.io](https://svara.io/assets/badge.svg)](https://svara.io/)
+```
